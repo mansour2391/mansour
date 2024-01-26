@@ -1,0 +1,7 @@
+streamlit
+pandas
+firebase_admin
+seaborn
+plotly
+Pillow==8.4.0
+json
